@@ -1,0 +1,5 @@
+conda create -n tensorflow pip python=3.10.4
+
+conda deactivate
+
+conda activate tensorflow
